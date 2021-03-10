@@ -2,7 +2,6 @@
 id: git-questions
 title: Questões
 ---
-
 ## Misc
 
 - [How to Update Fork Repo From Original Repo?](https://levelup.gitconnected.com/how-to-update-fork-repo-from-original-repo-b853387dd471)
@@ -55,6 +54,14 @@ title: Questões
   - `git tag -d <tagname>`: deletar tag localmente
   - `git push origin --delete <tagname>`: deletar tag remotamente
 
+## Branches
+
+- Como listar (somente) branches remotas?
+  - `git branch --remotes`
+  - `git branch --r`
+- Como listar todas as branches (remotas e locais)?
+  - `git branch --all`
+  - `git branch -a`
 ## Boas práticas
 
 - Quando fazer um *commit*? 
