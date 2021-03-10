@@ -1,9 +1,9 @@
 ---
-id: git
+id: git-questions
 title: Questões
 ---
 
-## Gerais
+## Misc
 
 - [How to Update Fork Repo From Original Repo?](https://levelup.gitconnected.com/how-to-update-fork-repo-from-original-repo-b853387dd471)
   

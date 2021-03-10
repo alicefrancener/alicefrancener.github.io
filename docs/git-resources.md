@@ -1,7 +1,9 @@
 ---
-id: git
+id: git-resources
 title: Recursos
 ---
+
+## Misc 
 
 - [Cheatsheets - Devhints.io](https://devhints.io/)
 - [gitignore files](https://github.com/github/gitignore)

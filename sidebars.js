@@ -1,5 +1,6 @@
 module.exports = {
   someSidebar: {
-    Git: ['git-questions', 'git-resources'],
+    Wiki: ['wiki'],
+    Git: ['git', 'git-questions', 'git-resources'],
   },
 };
